@@ -1,1 +1,0 @@
-C:\Users\DELL\source\repos\DeploymentPorfolio1Credit\WinUniversalPackage\AppPackages\WinUniversalPackage_1.0.0.0_Debug_Test\WinUniversalPackage_1.0.0.0_AnyCPU_Debug.msixbundle

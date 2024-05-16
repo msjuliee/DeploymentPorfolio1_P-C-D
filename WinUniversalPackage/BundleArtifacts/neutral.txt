@@ -1,1 +1,0 @@
-MainPackage=C:\Users\DELL\source\repos\DeploymentPorfolio1Credit\WinUniversalPackage\bin\AnyCPU\Debug\WinUniversalPackage_1.0.0.0_AnyCPU_Debug.msix
