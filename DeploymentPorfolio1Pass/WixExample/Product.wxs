@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="DeploymentPorfolio1Pass" Language="1033" Version="1.0.0.0" Manufacturer="Linh Dan Nguyen" UpgradeCode="fe75bde0-7c5b-47f5-aa0c-5adc069c2f5f">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes"/>
+
+		<Feature Id="ProductFeature" Title="WixExample" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="DeploymentPorfolio1Pass" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+      
+      <Component Id="DeploymentPorfolio1Pass.exe" Guid="AE557893-908A-4FCF-AF36-26B868538130" >
+        <File Id="DeploymentPorfolio1Pass.exe" Name="DeploymentPorfolio1Pass.exe" Source="$(var.DeploymentPorfolio1Pass.TargetDir)DeploymentPorfolio1Pass.exe"></File>
+      </Component>
+      
+		</ComponentGroup>
+	</Fragment>
+</Wix>

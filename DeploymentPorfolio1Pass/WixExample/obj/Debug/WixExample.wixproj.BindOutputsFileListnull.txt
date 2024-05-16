@@ -1,0 +1,2 @@
+C:\Users\DELL\source\repos\DeploymentPorfolio1Pass\WixExample\bin\Debug\WixExample.msi
+C:\Users\DELL\source\repos\DeploymentPorfolio1Pass\WixExample\bin\Debug\WixExample.wixpdb

@@ -1,0 +1,6 @@
+obj\Debug\Product.wixobj
+C:\Users\DELL\source\repos\DeploymentPorfolio1Pass\WixExample\bin\Debug\WixExample.msi
+C:\Users\DELL\source\repos\DeploymentPorfolio1Pass\WixExample\bin\Debug\WixExample.wixpdb
+obj\Debug\WixExample.wixproj.BindContentsFileListnull.txt
+obj\Debug\WixExample.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WixExample.wixproj.BindBuiltOutputsFileListnull.txt

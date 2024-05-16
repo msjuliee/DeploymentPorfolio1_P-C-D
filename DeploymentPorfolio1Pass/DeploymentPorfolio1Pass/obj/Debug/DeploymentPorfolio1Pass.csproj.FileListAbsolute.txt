@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\DeploymentPorfolio1Pass\DeploymentPorfolio1Pass\bin\Debug\DeploymentPorfolio1Pass.exe.config
+C:\Users\DELL\source\repos\DeploymentPorfolio1Pass\DeploymentPorfolio1Pass\bin\Debug\DeploymentPorfolio1Pass.exe
+C:\Users\DELL\source\repos\DeploymentPorfolio1Pass\DeploymentPorfolio1Pass\bin\Debug\DeploymentPorfolio1Pass.pdb
+C:\Users\DELL\source\repos\DeploymentPorfolio1Pass\DeploymentPorfolio1Pass\obj\Debug\DeploymentPorfolio1Pass.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\DeploymentPorfolio1Pass\DeploymentPorfolio1Pass\obj\Debug\DeploymentPorfolio1Pass.Properties.Resources.resources
+C:\Users\DELL\source\repos\DeploymentPorfolio1Pass\DeploymentPorfolio1Pass\obj\Debug\DeploymentPorfolio1Pass.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\DeploymentPorfolio1Pass\DeploymentPorfolio1Pass\obj\Debug\DeploymentPorfolio1Pass.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DeploymentPorfolio1Pass\DeploymentPorfolio1Pass\obj\Debug\DeploymentPorfolio1Pass.exe
+C:\Users\DELL\source\repos\DeploymentPorfolio1Pass\DeploymentPorfolio1Pass\obj\Debug\DeploymentPorfolio1Pass.pdb
