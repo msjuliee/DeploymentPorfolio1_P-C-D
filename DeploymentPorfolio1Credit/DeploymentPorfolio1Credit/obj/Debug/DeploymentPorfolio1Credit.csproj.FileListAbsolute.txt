@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\DeploymentPorfolio1Credit\DeploymentPorfolio1Credit\obj\Debug\DeploymentPorfolio1Credit.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\DeploymentPorfolio1Credit\DeploymentPorfolio1Credit\obj\Debug\DeploymentPorfolio1Credit.CalculatorForm.resources
+C:\Users\DELL\source\repos\DeploymentPorfolio1Credit\DeploymentPorfolio1Credit\obj\Debug\DeploymentPorfolio1Credit.Properties.Resources.resources
+C:\Users\DELL\source\repos\DeploymentPorfolio1Credit\DeploymentPorfolio1Credit\obj\Debug\DeploymentPorfolio1Credit.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\DeploymentPorfolio1Credit\DeploymentPorfolio1Credit\obj\Debug\DeploymentPorfolio1Credit.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DeploymentPorfolio1Credit\DeploymentPorfolio1Credit\bin\Debug\DeploymentPorfolio1Credit.exe.config
+C:\Users\DELL\source\repos\DeploymentPorfolio1Credit\DeploymentPorfolio1Credit\bin\Debug\DeploymentPorfolio1Credit.exe
+C:\Users\DELL\source\repos\DeploymentPorfolio1Credit\DeploymentPorfolio1Credit\bin\Debug\DeploymentPorfolio1Credit.pdb
+C:\Users\DELL\source\repos\DeploymentPorfolio1Credit\DeploymentPorfolio1Credit\obj\Debug\DeploymentPorfolio1Credit.exe
+C:\Users\DELL\source\repos\DeploymentPorfolio1Credit\DeploymentPorfolio1Credit\obj\Debug\DeploymentPorfolio1Credit.pdb
