@@ -1,2 +1,0 @@
-MainPackage=C:\Users\DELL\source\repos\DeploymentPorfolio1Pass\HelloWorldPackage\bin\AnyCPU\Debug\HelloWorldPackage_1.0.0.0_AnyCPU_Debug.msix
-SymbolPackage=C:\Users\DELL\source\repos\DeploymentPorfolio1Pass\HelloWorldPackage\AppPackages\HelloWorldPackage_1.0.0.0_Debug_Test\HelloWorldPackage_1.0.0.0_AnyCPU_Debug.appxsym
