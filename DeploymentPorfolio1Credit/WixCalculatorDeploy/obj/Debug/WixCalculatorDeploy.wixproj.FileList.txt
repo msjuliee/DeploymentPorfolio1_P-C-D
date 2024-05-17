@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\DeploymentPorfolio1Credit\WixCalculatorDeploy\bin\Debug\WixCalculatorDeploy.msi
+C:\Users\DELL\source\repos\DeploymentPorfolio1Credit\WixCalculatorDeploy\bin\Debug\WixCalculatorDeploy.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\WixCalculatorDeploy.wixproj.BindContentsFileListnull.txt
+obj\Debug\WixCalculatorDeploy.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WixCalculatorDeploy.wixproj.BindBuiltOutputsFileListnull.txt
